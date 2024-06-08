@@ -1,0 +1,22 @@
+{
+    "id": "XCOLD",
+    "name": "XCOLD",
+    "store": "https://store.xcold.net/",
+    "addresses": [
+        "xcold.net"
+    ],
+    "primaryAddress": "XCOLD.NET",
+    "primaryColor": "#23FF00",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "all"
+    ]
+}
